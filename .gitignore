@@ -1,0 +1,16 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+*.log
+*.backup
+*.out
+
+# Terraform crash logs
+crash.log
+
+# Local .terraform directory
+.terraform/
+
+# Personal or sensitive files
+*.pem
+*.key
